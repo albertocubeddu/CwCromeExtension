@@ -1,0 +1,10 @@
+{
+  "name": "Creditorwatch Suite",
+  "description": "Shows some of the features of Creditorwatch",
+  "version": "0.1",
+  "permissions": ["contextMenus","tabs","tts"],
+  "background": {
+    "scripts": ["sample.js"]
+  },
+  "manifest_version": 2
+}
